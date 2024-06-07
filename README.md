@@ -27,8 +27,8 @@ favorite dish or, if you need some inspiration, you can find a recipe to use at
 Allrecipes.
 - For now, just include an h1 heading with the recipe’s name as its content.
 - Back in the index.html file, add a link to the recipe page you just created.
-    Example: Under the <h1>Odin Recipes</h1> heading, write out the link like
-    so: <a href="recipes/recipename.html">Recipe Title</a>. The text of the
+    Example: Under the &#60;h1&#62;Odin Recipes&#60;/h1&#62; heading, write out the link like
+    so: &#60;a href="recipes/recipename.html"&#62;Recipe Title&#60;/a&#62;. The text of the
     link should again be the recipe name.
 
 Iteration 3: recipe page content
