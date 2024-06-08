@@ -34,20 +34,22 @@ img {
 }
 .ingredients {
     width: 80%;
-    border: .1rem solid darkred;
     margin: 0 auto;
     padding: 1rem 5rem;
 }
 
 .steps {
     width: 80%;
-    border: .1rem solid darkred;
     margin: 0 auto;
     padding: 1rem 5rem;
 }
 
 .list {
     width: 80%;
-    border: .1rem solid darkred;
     margin: 0 auto;
+}
+
+hr {
+    border: .15px solid darkred;
+    margin: .5rem 0;
 }
