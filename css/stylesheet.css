@@ -24,6 +24,13 @@ h1, h2 {
 h1 {
     text-align: center;
 }
+h2 {
+    margin-left: 48px;
+}
+
+.description {
+    margin: 16px 20px;
+}
 
 img {
     height: auto;
