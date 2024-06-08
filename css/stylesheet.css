@@ -15,8 +15,14 @@ body {
     max-width: 1000px;
     margin: 0 auto;
 }
+
 h1, h4 {
     font-family: Merriweather, serif;
+    padding: 16px;
+}
+
+h1 {
+    text-align: center;
 }
 
 img {
