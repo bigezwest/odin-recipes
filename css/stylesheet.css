@@ -8,18 +8,20 @@ img {
 }
 .ingredients {
     width: 80%;
-    border: .25rem solid darkred;
+    border: .1rem solid darkred;
     margin: 0 auto;
+    padding: 1rem 5rem;
 }
 
 .steps {
     width: 80%;
-    border: .25rem solid darkred;
+    border: .1rem solid darkred;
     margin: 0 auto;
+    padding: 1rem 5rem;
 }
 
 .list {
     width: 80%;
-    border: .25rem solid darkred;
+    border: .1rem solid darkred;
     margin: 0 auto;
 }
