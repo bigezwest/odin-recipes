@@ -28,6 +28,10 @@ h2 {
     margin-left: 48px;
 }
 
+li {
+    padding: .1rem 0;
+}
+
 .description {
     margin: 16px 20px;
 }
