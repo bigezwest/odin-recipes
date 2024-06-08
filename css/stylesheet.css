@@ -1,7 +1,11 @@
 body {
     background-color: beige;
 }
-
+img {
+    height: auto;
+    width: 40%;
+    margin: 0 auto;
+}
 .ingredients {
     width: 80%;
     border: .25rem solid darkred;
@@ -9,6 +13,12 @@ body {
 }
 
 .steps {
+    width: 80%;
+    border: .25rem solid darkred;
+    margin: 0 auto;
+}
+
+.list {
     width: 80%;
     border: .25rem solid darkred;
     margin: 0 auto;
