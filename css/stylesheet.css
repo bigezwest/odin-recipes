@@ -5,4 +5,11 @@ body {
 .ingredients {
     width: 80%;
     border: .25rem solid darkred;
+    margin: 0 auto;
+}
+
+.steps {
+    width: 80%;
+    border: .25rem solid darkred;
+    margin: 0 auto;
 }
